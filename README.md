@@ -1,4 +1,8 @@
-available in the folder script **ARIMA_exogenous_data__scaling_property.ipynb**  
+Weird aspects of ARIMA - how to increase the accuracy of predictions by exogenous data :   
+
+ARIMA models with exogeneous data are strongly dependent on the factor by which we multiply the exogeneous data. 
+Generalizing, we can say that the larger the factor, the smaller the prediction error of the model.   
+Available in the folder script **ARIMA_exogenous_data__scaling_property.ipynb**  
 presents a practical confirmation and realization of the hypothesis presented on my blog    
 https://dataanalyticsforall.blogspot.com/2021/04/weird-aspects-of-arima-how-to-increase.html   
 
