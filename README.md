@@ -1,4 +1,4 @@
-Weird aspects of ARIMA - how to increase the accuracy of predictions by exogenous data :   
+***Weird aspects of ARIMA - how to increase the accuracy of predictions by exogenous data***      
 
 ARIMA models with exogeneous data are strongly dependent on the factor by which we multiply the exogeneous data. 
 Generalizing, we can say that the larger the factor, the smaller the prediction error of the model.   
